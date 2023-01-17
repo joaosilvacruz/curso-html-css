@@ -5,46 +5,70 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Outras formatações</title>
+    <title>Listas</title>
 </head>
 
 <body>
-    <h1>Outras formatações</h1>
-    <h2>Código-fonte</h2>
-    <p>O comando <code>documento.getElementById(teste)</code> é escrito na linguagem javascript.</p>
-    <p>Para inserir um código com as identações juntas é necessário inicialmente usar a tag
-        <strong>&lt;code&gt;</strong> e inserir tudo dentro da tag <strong>&lt;pre&gt;</strong></p>
-    <pre>
-        <code>
-            num = int(input("digite um número"))
-            if num % 2 == 0:
-                print(f'O número {num} é par')
-            else:
-                print('O número {num} é ímpar')
-            print('fim do programa')
-        </code>
-    </pre>
-    <h2>Aspas em citações</h2>
-    <p>Como diria Kant, <q>O homem não é nada além daquilo que a educação faza dele</q>.</p>
-    <h2>Citações com muitas linhas</h2>
-    <blockquote>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam iure explicabo, ex ducimus autem error quidem quae unde alias eaque! Laborum atque, dignissimos et saepe praesentium tempore voluptatibus. Libero, ratione! - Lorem.
-    </blockquote>
-    <h2>Abreviações</h2>
-    <p> Estou estudando 
-        <abbr title="Hyper Text Markup Language">
-            HTML
-        </abbr>
-        e
-    <abbr title="Cascading Style Sheets">
-        CSS       
-    </abbr>
-    </p>
+    <h1>Trabalhando com Listas</h1>
+    <h2>Listas Ordenadas (OL)</h2>
+    <p>Para adicionar uma lista Ordenada, é necessário usar a tag &lt;ol&gt; adicionando os elementos com a tag
+        &lt;li&gt; onde é possível alterar o marcador inicial de uma lista adicionando o type ""</p>
+    <h3>Rotina Diária</h3>
+    <ol type="a">
+        <li>Acordar</li>
+        <li>Tomar Café</li>
+        <li>Tomar banho</li>
+        <li>Ir pra faculdade</li>
+    </ol>
+    <h2>Listas não ordenadas (UL)</h2>
+    <p>Para adicionar uma lista Ordenada, é necessário usar a tag &lt;ul&gt; adicionando os elementos com a tag
+        &lt;li&gt;, onde é possível alterar o marcador inicial de uma lista adicionando o type ""</p>
+    <h3>Compras na padaria</h3>
+    <ul type = "circle">
+        <li>Pão</li>
+        <li>Café</li>
+        <li>Maçã</li>
+        <li>Manteiga</li>
+        <li>Bolo</li>
+    </ul>
+    <h2>Juntando listas v1.0</h2>
+    <h3>Minhas linguagens favoritas</h3>
+    <ol type = "1">
+        <li>Antigas</li>
+        <ol type = "a">
+            <li>C</li>
+            <li>Java</li>
+        </ol>
+        <li>Novas</li>
+        <ol type="a" start="5">
+            <li>Python</li>
+            <li>Javascript</li>
+        </ol>
+    </ol>
+    <h3>Meus jogos Favoritos</h3>
+    <ul>
+        <li>Nintendo</li>
+        <ul>
+            <li>Super Mario</li>
+        </ul>
+        <li>PS2</li>
+        <ul>
+            <li>GTA</li>
+        </ul>
+    </ul>
 
-    <h2> Texto invertido</h2>
-    <p>
-        <bdo dir="rtl">Estou aprendendo HTML</bdo>
-    </p>
+    <h2>Lista  de Definições / Dicionários</h2>
+    <dl>    
+        <dt>HTML</dt>
+        <dd>Linguagem de marcação</dd>
+        <br>
+        <dt>CSS</dt>
+        <dd>Linguagem de estilização</dd>
+        <br>
+        <dt>Javascript</dt>
+        <dd>Linguagem de programação para a criação de interatividade</dd>
+    </dl>
+
 </body>
 
 </html>
