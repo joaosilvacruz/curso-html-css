@@ -19,5 +19,21 @@ h1#principal{
     color: aliceblue;
 }
 h2{
-    color: rgba(3, 63, 28, 0.912);
+    color: rgba(70, 66, 11, 0.912);
+}
+
+.basico{
+    color: rgb(120, 124, 60);
+}
+
+.intermediario{
+    color: rgb(122, 100, 28);
+}
+
+.avancado{
+    color: rgb(117, 41, 6);
+}
+
+.destaque{
+    background-color: yellow;
 }
