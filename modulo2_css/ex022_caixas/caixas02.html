@@ -1,53 +1,80 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Grouping tags</title>
     <style>
-        body{
+        body {
             background-color: rgb(243, 243, 225);
         }
-        header{
+
+        header {
             background-color: burlywood;
-            border-radius: 20px;
+            border-radius: 15px;
             padding: 7px;
             margin: 7px;
-        }
-        h1{
-            margin: 20px 20px 20px 7px;
-        }
-        nav{
-            background-color: grey;
-            margin: 7px;
+            box-shadow: 1px 1px 1px 1px rgb(196, 163, 120);
         }
 
-        nav>a{
+        h1 {
+            margin: 20px 20px 20px 7px;
+        }
+
+        nav {
+            background-color: grey;
+            margin: 7px;
+            padding: 0px 0px 0px 10px;
+            box-shadow: 2px 2px 2px 1px rgba(97, 95, 95, 0.781);
+            border-radius: 2px;
+        }
+
+        nav>a {
             text-decoration: none;
             color: white;
             font-weight: bold;
             margin-right: 10px;
         }
-        nav > a:hover{
+
+        nav>a:hover {
             text-decoration: underline;
             color: red;
+
         }
 
-        main{
+        main {
             padding: 7px;
             margin: 7px;
             background-color: bisque;
+            border-radius: 15px;
+            box-shadow: 1px 1px 1px 1px rgb(206, 186, 161);
         }
-        footer{
+
+        footer {
             margin: 7px;
-            padding: 1px;
+            padding: 3px;
             text-align: center;
             background-color: brown;
             color: aliceblue;
         }
+
+        footer>p {
+            margin: 0px;
+        }
+
+        div#bola {
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 50%;
+
+        }
     </style>
 </head>
+
 <body>
     <header>
         <h1>Estruturas de organização do HTML</h1>
@@ -63,7 +90,9 @@
         <section id="noticias">
             <article>
                 <h2>Notícias sobre o brasil</h2>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis neque eius repudiandae autem, laboriosam aliquid itaque odio! Nostrum quibusdam tempore fuga excepturi, tempora, ipsum, voluptatibus quia sint soluta debitis quisquam?</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis neque eius repudiandae autem,
+                    laboriosam aliquid itaque odio! Nostrum quibusdam tempore fuga excepturi, tempora, ipsum,
+                    voluptatibus quia sint soluta debitis quisquam?</p>
                 <aside>
                     Artigo escrito por Lorem
                 </aside>
@@ -74,5 +103,7 @@
     <footer>
         <p>Desenvolvido pelo João Victor Cruz</p>
     </footer>
+    <div id="bola"></div>
 </body>
+
 </html>
