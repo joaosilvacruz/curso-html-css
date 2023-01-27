@@ -18,7 +18,6 @@
     --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
     --fonte-android: 'Android', cursive;
-
 }
 
 * {
@@ -26,34 +25,66 @@
     padding: 0px;
 }
 
-header{
-    background-color:var(--cor4);
+body {
+    background-color: #ecf3d1  ;
+    font-family: var(--fonte-padrao);
 }
 
-body {
-    /*
-    Cor verde: #3DDA84
-    Cor verde mais claro: #EEF7CE 
-    Cor verde mais claro ainda: #ECFBF3*/
-    background-color: var(--cor0);
-    font-family: var(--fonte-padrao);
+header{
+    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
+    text-align: center;
+    min-height: 150px;
+    padding-top: 30px;
 }
 
 header > h1 {
     color: white;
     font-family: var(--fonte-destaque);
+    font-size: 3em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.466);
 }
 
 header > p{
     color: white;
+    font-family: var(--fonte-padrao);
+    font-size: 1.2em;
+    padding-left: 10px ;
+    padding-right: 10px;
+    text-shadow: 2px 2px 0 rgba(0, 0, 0, 0.466);
 }
 
 nav{
     background-color: var(--cor5);
+    padding: 10px;
+    box-shadow: 0px 7px 6px #0f27145b;
+    text-align: center;
+}
+
+nav > a{
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: 0.5s;
+}
+
+nav > a:hover{
+    background-color: var(--cor3);
+    color: var(--cor5);
+    border-radius: 10px;
+    
 }
 
 main{
     background-color: white;
+    min-width: 300px;
+    max-width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.322);
+    border-bottom-left-radius: 10px;
 }
 main h1 {
     color: var(--cor5);
@@ -62,6 +93,16 @@ main h1 {
 
 main h2{
     font-family: var(--fonte-android);
+}
+
+main img {
+    width: 100%;
+    border-radius: 10px;
+}
+main img.pequeno{
+    width: 50%;
+    display: block;
+    margin: auto;
 }
 
 footer{
