@@ -5,20 +5,20 @@ O curso é formado por 5 módulos de 40 horas cada e é ministrado por Gustavo G
 
 ## Desafios realizados no curso
 
-* Desafio 1 - [Desafio das Mensagens](https://joaosilvacruz.github.io/curso-html-css-js/desafios/dmod_001/d001/index.html)
-* Desafio 2 - [Desafio das Imagens](https://joaosilvacruz.github.io/curso-html-css-js//desafios/dmod_001/d002/index.html)
-* Desafio 3 - [Desafio do Mapa](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d003)
-* Desafio 4 - [Meus Emojis Favoritos](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d004)
-* Desafio 5 - [Minhas Redes Sociais](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d005)
-* Desafio 6 - [Tags em HTML](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d006)
-* Desafio 7 - [Imagem Flexível](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d007)
-* Desafio 8 - [Desafio da Navegação](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d008)
-* Desafio 9 - [Vídeos Legais para Assistir](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d009)
-* Desafio 11 - [Desafio do Astronauta](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_002/d011)
+* Desafio 1 - [Desafio das Mensagens](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_001/d001/index.html)
+* Desafio 2 - [Desafio das Imagens](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_001/d002/index.html)
+* Desafio 3 - [Desafio do Mapa](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_001/d003/index.html)
+* Desafio 4 - [Meus Emojis Favoritos](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_001/d004/index.html)
+* Desafio 5 - [Minhas Redes Sociais](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_001/d005/index.html)
+* Desafio 6 - [Tags em HTML](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_001/d006/index.html)
+* Desafio 7 - [Imagem Flexível](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_001/d007/index.html)
+* Desafio 8 - [Desafio da Navegação](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_001/d008/index.html)
+* Desafio 9 - [Vídeos Legais para Assistir](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_001/d009/index.html)
+* Desafio 11 - [Desafio do Astronauta](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_002/d011/index.html/index.html)
 
 ## Projetos realizados no curso
 
-* Desafio 10 - [Projeto Android](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_002/d010)
+* Desafio 10 - [Projeto Android](https://joaosilvacruz.github.io/curso-html-css/desafios/dmod_002/d010/android.html)
 
 ### Informações adicionais
 
