@@ -14,7 +14,7 @@ O curso é formado por 5 módulos de 40 horas cada e é ministrado por Gustavo G
 * Desafio 7 - [Imagem Flexível](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d007)
 * Desafio 8 - [Desafio da Navegação](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d008)
 * Desafio 9 - [Vídeos Legais para Assistir](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d009)
-* Desafio 11 - [Desafio do Astronauta]()
+* Desafio 11 - [Desafio do Astronauta](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_002/d011)
 
 ## Projetos realizados no curso
 
