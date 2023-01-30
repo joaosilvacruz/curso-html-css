@@ -5,8 +5,8 @@ O curso é formado por 5 módulos de 40 horas cada e é ministrado por Gustavo G
 
 ## Desafios realizados no curso
 
-* Desafio 1 - [Desafio das Mensagens](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d001)
-* Desafio 2 - [Desafio das Imagens](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d002)
+* Desafio 1 - [Desafio das Mensagens](https://joaosilvacruz.github.io/curso-html-css-js/desafios/dmod_001/d001/index.html)
+* Desafio 2 - [Desafio das Imagens](https://joaosilvacruz.github.io/curso-html-css-js//desafios/dmod_001/d002/index.html)
 * Desafio 3 - [Desafio do Mapa](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d003)
 * Desafio 4 - [Meus Emojis Favoritos](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d004)
 * Desafio 5 - [Minhas Redes Sociais](https://github.com/joaosilvacruz/curso-html-css-js/tree/master/desafios/dmod_001/d005)
