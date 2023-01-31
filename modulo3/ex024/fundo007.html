@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alinhamento vertical</title>
+    <style>
+        #container{
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+            position: relative;
+            height: 500px;
+            padding: 10px;
+            background-color: purple;
+        }
+        #conteudo{
+            /*Com a posição absoluta é possível configurar left e right*/
+            position: absolute; 
+            left: 50%;
+            top: 50%;
+            /*O translate faz o objeto se mover, com valores positivos move para a direita e baixo, respectivamente. Já com valores negativos, move para a esquerda e para cima, respectivamente.*/
+            transform: translate(-50%, -50%);
+            height: 200px;
+            width: 400px;
+            background-color: orange;
+            
+
+
+        }
+    </style>
+</head>
+<body>
+    <section id="container">
+        <article id="conteudo">
+
+        </article>
+    </section>
+    
+</body>
+</html>
