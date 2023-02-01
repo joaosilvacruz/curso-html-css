@@ -19,6 +19,7 @@ O curso é formado por 5 módulos de 40 horas cada e é ministrado por Gustavo G
 ## Projetos realizados no curso
 
 * Desafio 10 - [Projeto Android](https://joaosilvacruz.github.io/curso-html-css/desafios/d010/android.html)
+* Desafio 12 - [Projeto Cordel](https://joaosilvacruz.github.io/curso-html-css/desafios/d012/cordel.html)
 
 ### Informações adicionais
 
